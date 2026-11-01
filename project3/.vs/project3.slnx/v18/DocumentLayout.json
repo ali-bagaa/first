@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CS\\Desktop\\Programming\\project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F79E64-EA57-40ED-B5C2-3AE11BB247F7}|project3\\project3.vcxproj|C:\\Users\\CS\\Desktop\\Programming\\project3\\project3\\project3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38F79E64-EA57-40ED-B5C2-3AE11BB247F7}|project3\\project3.vcxproj|solutionrelative:project3\\project3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project3.cpp",
+              "DocumentMoniker": "C:\\Users\\CS\\Desktop\\Programming\\project3\\project3\\project3.cpp",
+              "RelativeDocumentMoniker": "project3\\project3.cpp",
+              "ToolTip": "C:\\Users\\CS\\Desktop\\Programming\\project3\\project3\\project3.cpp",
+              "RelativeToolTip": "project3\\project3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T19:53:58.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
